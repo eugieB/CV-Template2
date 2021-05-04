@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+html
+{
+font-family:"Courier",Courier New;
+}
+h1
+{
+font-size:35px;
+
+}
+h2
+{
+font-size: 26px;
+}
+hr
+{
+border:2px solid black;
+}
+address
+{
+font-size:15px;
+}
+</style
+
+</head>
+<body>
+<h1>Curriculum Vitae Of Botuka Vilakazi</h1>
+
+<address>
+11769 Sundowns Street
+Mohlakeng 
+Randfontein
+1759
+</address>
+<hr/>
+<p>
+Personal Information. I like working here and I am good with computers. I can wite code for anyone that is available. 
+</p>
+<h3>
+Skills.</3>
+<ul>
+<li>I can code JavaScript</li>
+<li>
+I can rap
+</li>
+<li>
+I can draw
+</li>
+</ul>
+
+<h2>
+Education.
+</h2>
+<h3>
+ A.B Phokompe S.S.S
+</h3>
+<span>Date : 2 Feb 2010</span>
+<p></p>
+<h2>Hobies</h2>
+<ul>
+<li><li/>
+</ul>
+</body>
+</html>
